@@ -1,0 +1,10 @@
+C:\Users\bbayrakli\Desktop\My_Repo\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\bbayrakli\Desktop\My_Repo\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\bbayrakli\Desktop\My_Repo\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\bbayrakli\Desktop\My_Repo\LoginScreen\obj\Debug\LoginScreen.csprojAssemblyReference.cache
+C:\Users\bbayrakli\Desktop\My_Repo\LoginScreen\obj\Debug\LoginScreen.Form1.resources
+C:\Users\bbayrakli\Desktop\My_Repo\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\bbayrakli\Desktop\My_Repo\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+C:\Users\bbayrakli\Desktop\My_Repo\LoginScreen\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+C:\Users\bbayrakli\Desktop\My_Repo\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\bbayrakli\Desktop\My_Repo\LoginScreen\obj\Debug\LoginScreen.pdb
